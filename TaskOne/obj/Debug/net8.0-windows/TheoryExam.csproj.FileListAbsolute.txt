@@ -1,0 +1,22 @@
+C:\Users\graysono\Downloads\id511001-theory-exam-main\id511001-theory-exam-main\TaskOne\obj\Debug\net8.0-windows\TheoryExam.Form1.resources
+C:\Users\graysono\Downloads\id511001-theory-exam-main\id511001-theory-exam-main\TaskOne\obj\Debug\net8.0-windows\TheoryExam.csproj.GenerateResource.cache
+C:\Users\graysono\Downloads\id511001-theory-exam-main\id511001-theory-exam-main\TaskOne\obj\Debug\net8.0-windows\TheoryExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graysono\Downloads\id511001-theory-exam-main\id511001-theory-exam-main\TaskOne\obj\Debug\net8.0-windows\TheoryExam.AssemblyInfoInputs.cache
+C:\Users\graysono\Downloads\id511001-theory-exam-main\id511001-theory-exam-main\TaskOne\obj\Debug\net8.0-windows\TheoryExam.AssemblyInfo.cs
+C:\Users\graysono\Downloads\id511001-theory-exam-main\id511001-theory-exam-main\TaskOne\obj\Debug\net8.0-windows\TheoryExam.csproj.CoreCompileInputs.cache
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\bin\Debug\net8.0-windows\TheoryExam.exe
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\bin\Debug\net8.0-windows\TheoryExam.deps.json
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\bin\Debug\net8.0-windows\TheoryExam.runtimeconfig.json
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\bin\Debug\net8.0-windows\TheoryExam.dll
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\bin\Debug\net8.0-windows\TheoryExam.pdb
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\obj\Debug\net8.0-windows\TheoryExam.Form1.resources
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\obj\Debug\net8.0-windows\TheoryExam.csproj.GenerateResource.cache
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\obj\Debug\net8.0-windows\TheoryExam.GeneratedMSBuildEditorConfig.editorconfig
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\obj\Debug\net8.0-windows\TheoryExam.AssemblyInfoInputs.cache
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\obj\Debug\net8.0-windows\TheoryExam.AssemblyInfo.cs
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\obj\Debug\net8.0-windows\TheoryExam.csproj.CoreCompileInputs.cache
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\obj\Debug\net8.0-windows\TheoryExam.dll
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\obj\Debug\net8.0-windows\refint\TheoryExam.dll
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\obj\Debug\net8.0-windows\TheoryExam.pdb
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\obj\Debug\net8.0-windows\TheoryExam.genruntimeconfig.cache
+H:\year 1 sem 2\programming2SBA\sba\TaskOne\obj\Debug\net8.0-windows\ref\TheoryExam.dll
